@@ -8,7 +8,9 @@ body {
 }
 
 #page-wrapper {
-  
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
 }
 
 #header {
@@ -71,15 +73,22 @@ body {
 }
 
 #designs p {
+  font-size: 1.1em;
+  margin-top: 15px;
 }
 
 #supermodel {
+  margin-top: 40px;
+  text-align: center;
 }
 
 #supermodel iframe {
-  
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 #supermodel p {
-
+  font-size: 1.2em;
+  margin-top: 20px;
+  color: #333;
 }
