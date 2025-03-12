@@ -1,0 +1,94 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+
+body {
+  background-image: url("../media/blue.jpeg");
+  font-family: 'Tangerine', serif;
+  background-color: #a7b4d9;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;	
+}
+
+#page-wrapper {
+  
+}
+
+#header {
+  background-color: #333;
+  color: #fff;
+  padding: 1em;
+  text-align: center;
+}
+
+#header h1 {
+}
+
+#header ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+#header ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+#header ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.2rem; 
+}
+
+}
+#header ul li a:hover {
+  text-decoration: underline;
+}
+
+#aboutme {
+}
+
+#aboutme h2 {
+}
+
+#aboutme p {
+  
+}
+
+#aboutme img {
+}
+
+/* Designs Section */
+#designs {
+}
+
+#designs h3 {
+}
+
+#designs img {
+  
+}
+
+#designs a {
+}
+
+#designs p {
+}
+
+#supermodel {
+}
+
+#supermodel iframe {
+  
+}
+
+#supermodel p {
+
+}
