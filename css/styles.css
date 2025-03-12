@@ -1,6 +1,14 @@
 
 body {
-  background-image: url('../project2/media/blue.jpg');
+  font-family: 'Tangerine', cursive, Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+  background-image: url('../project2/media/blue.jpeg');
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
 }
 
 #page-wrapper {
