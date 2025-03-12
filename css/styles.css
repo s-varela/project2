@@ -1,12 +1,3 @@
-*,
-*::before,
-*::after {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-@import url('https://fonts.googleapis.com/css?family=Tangerine');
-
 body {
   background-image: url("../media/blue.jpg");
   font-family: 'Tangerine', serif;
