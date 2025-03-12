@@ -46,30 +46,57 @@ body {
 }
 
 #aboutme {
+  background-color: #fff;
+  padding: 30px;
+  margin-top: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);  
 }
 
 #aboutme h2 {
+  font-size: 2em;
+  margin-bottom: 15px;
+  color: #333;
 }
 
 #aboutme p {
-  
+  margin-bottom: 15px;
+  font-size: 1.1em;  
 }
 
 #aboutme img {
+  width: 100%;
+  max-width: 400px;
+  display: block;
+  margin-top: 20px;
+  border-radius: 8px;
 }
 
-/* Designs Section */
+
 #designs {
+  margin-top: 40px;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 #designs h3 {
+  font-size: 2em;
+  margin-bottom: 20px;
 }
 
 #designs img {
+  width: 100%;
+  max-width: 500px;
+  display: block;
+  margin-top: 20px;
+  border-radius: 8px;
   
 }
 
 #designs a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 #designs p {
