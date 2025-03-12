@@ -1,10 +1,5 @@
 body {
-  background-image: url("media/blue.jpg");
-  font-family: 'Tangerine', serif;
-  background-color: #a7b4d9;
-  line-height: 1.5;
-  margin: 0;
-  padding: 0;	
+  background-image: url("media/blue.jpg");	
 }
 
 #page-wrapper {
