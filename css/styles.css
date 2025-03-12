@@ -1,4 +1,5 @@
 body {
+  background-image: url("../media/redblue.png");
   font-family: 'Tangerine', cursive, Arial, sans-serif;
   line-height: 1.6;
   background-color: #311378;
@@ -33,7 +34,7 @@ body {
 }
 
 #header ul li a {
-  color: #fff;
+  color: #3e3e47;
   text-decoration: none;
   font-size: 1.2rem; 
   text-transform:uppercase;
