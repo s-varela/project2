@@ -11,7 +11,8 @@ body {
 }
 
 #page-wrapper {
-  width: 450%;
+  width: 100%;
+  max-width: 1200px;
   margin: 0 auto;
   box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 1);
   border-radius: 12px 12px 0px 0px;
@@ -58,17 +59,6 @@ body {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);  
 }
 
-#aboutme h2 {
-  font-size: 2em;
-  color: #333;
-  margin-bottom: 1em;
-}
-
-#aboutme p {
-  font-size: 1.2rem; 
-  margin-bottom:1.5em;  
-}
-
 #aboutme img {
   width: 100%;
   max-width: 400px;
@@ -77,7 +67,6 @@ body {
   border-radius: 8px;
 }
 
-
 #designs {
   margin-top: 40px;
   padding: 20px;
@@ -85,43 +74,7 @@ body {
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-#designs h3 {
-  font-size: 2em;
-  margin-bottom: 20px;
-}
-
-#designs img {
-  width: 100%;
-  max-width: 500px;
-  display: block;
-  margin-top: 20px;
-  border-radius: 8px;
-  
-}
-
-#designs a {
-  color: #007bff;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-#designs p {
-  font-size: 1.1em;
-  margin-top: 15px;
-}
-
-#supermodel {
-  margin-top: 40px;
-  text-align: center;
-}
-
 #supermodel iframe {
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-#supermodel p {
-  font-size: 1.2em;
-  margin-top: 20px;
-  color: #333;
 }
