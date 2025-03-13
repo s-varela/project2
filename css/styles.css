@@ -45,11 +45,12 @@ body {
 }
 
 #header ul li { 
+  display: inline-block;
   margin-right: 20px;
 }
 
 #header ul li a {
-  color: #3e3e47;
+  color: #050405;
   text-decoration: none;
   font-size: 1.2rem; 
   text-transform:uppercase;
