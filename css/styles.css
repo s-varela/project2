@@ -45,7 +45,7 @@ body {
 }
 
 #header ul li a:hover {
-  color: #ff9800;
+  color: #800ff;
 }
 
 #main-nav ul {
@@ -57,11 +57,11 @@ body {
   left:50%;	
 }
 
-#aboutme {
+#h1 h2 h3 {
   padding: 3em 2em;
   background-color: rgba(255, 255, 255, 0.9);
   margin: 2em auto;
-  max-width: 90%;
+  max-width: 70%;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);  
 }
 
@@ -84,3 +84,10 @@ body {
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+
+#aboutme {
+  padding: 3em 2em;
+  background-color: rgba(255, 255, 255, 0.9);
+  margin: 2em auto;
+  max-width: 70%;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
