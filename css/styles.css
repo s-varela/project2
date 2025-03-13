@@ -4,7 +4,7 @@ body {
   background-position:center;
   margin: 0;
   padding: 0;
-  color:white;
+  color:blue;
 }
 
 #page-wrapper {
@@ -17,13 +17,13 @@ body {
 #header {
   position: relative;
   margin-top: 40px;
-  background-color: black;
+  background-color: red;
   -moz-border-radius: 1em;
 }
 
 #header h1, h2, h3 {
   position:relative;
-  color:black;
+  color:green;
 }
 
 #header #toplink {
