@@ -36,6 +36,7 @@ body {
   margin: 0;
   display: flex;
   justify-content: center;
+  color: white;
 }
 
 #header ul li { 
