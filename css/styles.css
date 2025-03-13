@@ -1,5 +1,6 @@
 body {
   background-image: url("../media/redblue.jpg");
+  color:white
 }
 
 #page-wrapper {
@@ -13,7 +14,7 @@ body {
   position: relative;
   margin-top: 40px;
   background-color: #fff;
-  border-radius: 12px 12px 0px 0px;
+  -moz-border-radius: 1em;
 }
 
 #header #toplink {
