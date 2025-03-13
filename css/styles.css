@@ -71,23 +71,3 @@ h1, h2, h3 {
   left:50%;	
 }
 
-#aboutme img {
-  width: 100%;
-  max-width: 400px;
-  display: block;
-  margin-top: 20px;
-  border-radius: 8px;
-}
-
-#designs {
-  margin-top: 40px;
-  padding: 20px;
-  background-color: #fff;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-#supermodel iframe {
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
