@@ -21,9 +21,14 @@ body {
   background-color: #ffd5d4;
 }
 
-#header h1, h2, h3 {
-  position:relative;
-  color:blue;
+#header h1 {
+  position:absolute;
+  color:black;
+}
+
+#header h2, h3 {
+  position: relative;
+  color: black;
 }
 
 #header #toplink {
