@@ -28,7 +28,7 @@ body {
 
 #header h2, h3 {
   color: black;
-  text-align: left;
+  margin-left: 20px;
 }
 
 #header #toplink {
