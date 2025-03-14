@@ -6,6 +6,7 @@ body {
   padding: 0;
   color:black;
   position: relative;
+  text-align: center;
 }
 
 #page-wrapper {
@@ -22,12 +23,12 @@ body {
 }
 
 #header h1 {
-  position:center;
+  position:relative;
   color:black;
 }
 
 #header h2, h3 {
-  position: relative;
+  position: fixed;
   color: black;
 }
 
