@@ -6,7 +6,7 @@ body {
   padding: 0;
   color:black;
   position: relative;
-  text-align: absolute;
+  text-align: center;
 }
 
 #page-wrapper {
@@ -28,7 +28,7 @@ body {
 }
 
 #header h2, h3 {
-  position: fixed;
+  position: absolute;
   color: black;
 }
 
