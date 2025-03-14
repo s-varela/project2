@@ -86,26 +86,26 @@ p {
   margin-right: 20px;
 }
 
-image1 {
-  margin-left: 20;
-  width: 350;
+.image1 {
+  margin-left: 20px;
+  width: 350px;
   height: auto;
 }
 
-image2 {
-  margin-left: 20;
-  width: 350;
+.image2 {
+  margin-left: 20px;
+  width: 350px;
   height: auto;
 }
 
-image3 {
-  margin-left: 20;
-  width: 350;
+.image3 {
+  margin-left: 20px;
+  width: 350px;
   height: auto;
 }
 
 #a {
-  margin-right: 20;
+  margin-left: 20px;
 }
 
 #bull1, #bull2, #bull3, #bull4 {
@@ -114,7 +114,7 @@ image3 {
   width: fit-content;
 }
 
-#.big-shoulders-pfont { 
+.big-shoulders-pfont { 
   font-family: "Big Shoulders", sans-serif;
   font-optical-sizing: auto;
   font-weight: 200;
