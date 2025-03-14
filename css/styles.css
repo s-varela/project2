@@ -95,3 +95,9 @@ img {
 a {
   margin-right: 20;
 }
+
+#bull1, #bull2, #bull3, #bull4 {
+  margin-left: 10px;
+  margin-right: auto;
+  width: fit-content;
+}
