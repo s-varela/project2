@@ -24,11 +24,13 @@ body {
 #header h1 {
   position:relative;
   color:black;
+  text-align: center;
 }
 
 #header h2, h3 {
   position: absolute;
   color: black;
+  text-align: left;
 }
 
 #header #toplink {
