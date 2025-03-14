@@ -6,7 +6,7 @@ body {
   padding: 0;
   color:black;
   position: relative;
-  text-align: center;
+  text-align: absolute;
 }
 
 #page-wrapper {
