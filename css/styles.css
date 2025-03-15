@@ -20,7 +20,8 @@ body {
   margin-left: 30px;
   font-size: 2em;
   font-family:;
-  color: blue;	
+  color: white;	
+  background-color:black;
 }
 
 #header #toplink {
