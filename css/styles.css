@@ -31,6 +31,30 @@ body {
   color: white;
   font-size: 1.8em;	
 }
+
+#header ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+
+#header ul li { 
+  margin-left: 0 10px;
+  width: fit-content;
+}
+
+#header ul li a {
+  color: #080114; 
+  text-decoration: none;
+  font-size: 1.2rem; 
+  text-transform:uppercase;
+  padding: 0.5em 1em;
+}
+
 	
 #content-wrapper {
   background-color: #a1a1a6;
