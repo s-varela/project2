@@ -35,7 +35,7 @@ body {
 	
 #content-wrapper {
   background-color: #a1a1a6;
-  float: left;
+  width: 100%;
 }
 
 #main-wrapper {
