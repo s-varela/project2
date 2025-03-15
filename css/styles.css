@@ -65,6 +65,24 @@ body {
   color: #8000ff;
 }
 
+.image1 {
+  margin-left: 20px;
+  width: 350px;
+  height: auto;
+}
+
+.image2 {
+  margin-left: 20px;
+  width: 350px;
+  height: auto;
+}
+
+.image3 {
+  margin-left: 20px;
+  width: 350px;
+  height: auto;
+}
+
 #main-nav ul {
   list-style-type: none;
   margin: 0;
@@ -84,24 +102,6 @@ iframe {
 p {
   margin-left: 20px;
   margin-right: 20px;
-}
-
-.image1 {
-  margin-left: 20px;
-  width: 350px;
-  height: auto;
-}
-
-.image2 {
-  margin-left: 20px;
-  width: 350px;
-  height: auto;
-}
-
-.image3 {
-  margin-left: 20px;
-  width: 350px;
-  height: auto;
 }
 
 a {
