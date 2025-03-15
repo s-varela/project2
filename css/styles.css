@@ -68,7 +68,7 @@ body {
 
 .image1, .image2, .image3 {
   display: block;
-  margin: 200px;
+  margin: 150px;
   width: 650px;
   height: auto;
 }
@@ -109,5 +109,5 @@ a {
   font-optical-sizing: auto;
   font-weight: 200;
   font-style: normal;
-  font-size: 24
+  font-size: 24;
 }
