@@ -31,8 +31,9 @@ main {
 }
 
 #header h1 {
-  color:black;
-  text-align: center;
+  color:blue;
+  position:absolute;
+  top: 7px; 
 }
 
 #header h2, h3 {
@@ -42,7 +43,7 @@ main {
 
 #header #toplink {
   text-decoration: none;
-  position: relative;
+  position: absolute;
   top:-34px;
   right: 10px;
   color: green;
