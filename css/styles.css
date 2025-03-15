@@ -46,9 +46,9 @@ body {
   background-color: #a1a1a6;
 }
 
-h2 strong {
-  font-size: .5em;
-  font-weight: 900;	
+#header h2, h3 {
+  color: black;
+  margin-left: 20px;
 }
 
 #main-nav {
