@@ -95,7 +95,8 @@ body {
 
 #center {
   width: 960px;
-  text-align;
+  text-align: center;
+  background-color: #a1a1a6;
 }
 
 iframe {
