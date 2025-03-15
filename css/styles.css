@@ -36,7 +36,8 @@ body {
 }
 
 #content-wrapper {
-  background-color: #a1a1a6;	
+  background-color: #a1a1a6;
+  width: 715px;  
 }
 
 #main-content {
