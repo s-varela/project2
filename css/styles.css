@@ -17,7 +17,7 @@ body {
 
 #header h1 {
   color:blue;
-  position:absolute;
+  position:relative;
   top: 7px; 
 }
 
@@ -58,11 +58,11 @@ body {
 }
 
 #main-nav {
-  padding: 40px;
+  padding: 20px;
   margin: 0 auto;
-  width: 500px;
+  width: 70%;
   box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 0.1);
-  background-color: #05055c;
+  background-color: #cecef0;
   text-align:center;
 }
 
