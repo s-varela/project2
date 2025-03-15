@@ -93,6 +93,11 @@ body {
   left: 50px;
 }
 
+#center {
+  width: 960px;
+  text-align;
+}
+
 iframe {
   display: block;
   margin-left: auto;
