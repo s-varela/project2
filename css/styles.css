@@ -35,13 +35,9 @@ body {
 	
 }
 
-#m-wrapper {
-  background-color: #a1a1a6; 
-}
-
 #main-content {
   min-height: 300px;
-  width: 715px;
+  width: 100%;
   margin-right: 30px;
   float: left;
   margin-left: 15px; 
@@ -51,12 +47,6 @@ body {
 h2 strong {
   font-size: 2em;
   font-weight: 900;	
-}
-
-#side-content {
-  min-height: 150px;
-  width: 200px;
-  float: left;
 }
 
 #main-nav {
