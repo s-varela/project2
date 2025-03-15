@@ -65,21 +65,10 @@ body {
   color: #8000ff;
 }
 
-.image1 {
-  margin-left: 20px;
-  width: 350px;
-  height: auto;
-}
-
-.image2 {
-  margin-left: 20px;
-  width: 350px;
-  height: auto;
-}
-
-.image3 {
-  margin-left: 20px;
-  width: 350px;
+.image1, .image2, .image3 {
+  display: block;
+  margin: 20px;
+  width: 250px;
   height: auto;
 }
 
