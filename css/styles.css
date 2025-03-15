@@ -46,6 +46,7 @@ body {
   margin: 0;
   display: flex;
   justify-content: center;
+  align-items: center;
   color: black;
 }
 
@@ -67,8 +68,8 @@ body {
 
 .image1, .image2, .image3 {
   display: block;
-  margin: center;
-  width: 350px;
+  margin: 50px;
+  width: 450px;
   height: auto;
 }
 
@@ -98,7 +99,7 @@ a {
 }
 
 #bull1, #bull2, #bull3, #bull4 {
-  margin-left: 10px;
+  margin-left: 0 10px;
   margin-right: auto;
   width: fit-content;
 }
