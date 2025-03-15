@@ -35,9 +35,8 @@ body {
 	
 }
 
-#content-wrapper {
-  background-color: #a1a1a6;
-  width: 715px;  
+#m-wrapper {
+  background-color: #a1a1a6; 
 }
 
 #main-content {
@@ -93,7 +92,7 @@ h2 strong {
 }
 
 #center {
-  width: 960px;
+  width: 70%;
   text-align: center;
 }
 
